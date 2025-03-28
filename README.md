@@ -1,5 +1,7 @@
 # Instructions:
 
+## note: it has now a little bit different setup (nothing too bad)
+
 1. Plan the Project Structure
 
 Separate the backend and frontend into distinct folders for easy management:
